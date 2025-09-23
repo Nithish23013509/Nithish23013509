@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Nithish
+## Hi there 👋 It's me NITHISH
 
 Engineering Student @ Saveetha Engineering College
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                              
@@ -21,6 +21,6 @@ Engineering Student @ Saveetha Engineering College
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Nithish23013509/Nithish23013509?style=social)](https://github.com/Nithish23013509/Nithish23013509)
 
-[![f3fHdoj7Ca's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=f3fHdoj7Ca&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
+[![Nithish's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=f3fHdoj7Ca&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
-[![kishorerz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithish23013509&bg_color=080808&color=ebe5eb&line=4c9e5a&point=efe6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nithish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithish23013509&bg_color=080808&color=ebe5eb&line=4c9e5a&point=efe6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
