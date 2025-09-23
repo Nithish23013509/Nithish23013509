@@ -21,6 +21,6 @@ Engineering Student @ Saveetha Engineering College
 
 ![Nithish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithish23013509&show_icons=true&theme=dark)
 
-[![Nithish's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=f3fHdoj7Ca&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
+[![Nithish's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Nithish&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 [![Nithish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithish23013509&bg_color=080808&color=ebe5eb&line=4c9e5a&point=efe6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
