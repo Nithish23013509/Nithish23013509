@@ -1,6 +1,6 @@
 # 👋 Hi, I'm NITHISH S
 
-### 🎓 Engineering Student | Full-Stack Developer
+### 🎓 Engineering Student | Full-Stack Developer | AI Enthusiast
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="400"/>
@@ -71,7 +71,7 @@ An intelligent grievance platform that classifies, prioritizes, and routes citiz
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish23013509&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish23013509&theme=tokyo-night&hide_border=true&range=1y" />
 </p>
 
 ---
