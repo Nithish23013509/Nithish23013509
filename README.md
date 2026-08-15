@@ -62,8 +62,10 @@ An intelligent grievance platform that classifies, prioritizes, and routes citiz
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithish23013509&theme=tokyonight" width="100%"/>
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Nithish23013509&theme=dark&year=none&stats=true&width=1400&height=500" width="100%"/>
 </p>
+
+
 
 ---
 
