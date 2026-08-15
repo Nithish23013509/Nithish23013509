@@ -1,10 +1,8 @@
-# 👋 Hi, I'm NITHISH S
+**👋 Hi, I'm NITHISH S**
 
-### 🎓 Engineering Student | Full-Stack Developer | AI Enthusiast
+### 🎓 Engineering Student | Full-Stack Developer
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="400"/>
-</p>
+<p align="center">   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> </p>
 
 I'm an engineering student at **Saveetha Engineering College** passionate about building real-world applications, solving problems, and continuously improving my development skills.
 
@@ -22,21 +20,15 @@ I'm an engineering student at **Saveetha Engineering College** passionate about 
 
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css" />
-</p>
+<p>   <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css" /> </p>
 
 ### 🌐 Full-Stack Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,spring,mysql,mongodb" />
-</p>
+<p>   <img src="https://skillicons.dev/icons?i=react,spring,mysql,mongodb" /> </p>
 
 ### 🛠️ Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel,render" />
-</p>
+<p>   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel,render" /> </p>
 
 ---
 
@@ -61,34 +53,19 @@ An intelligent grievance platform that classifies, prioritizes, and routes citiz
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithish23013509&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithish23013509&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=Nithish23013509&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithish23013509&theme=tokyonight&hide_border=true" height="180"/> </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish23013509&theme=tokyo-night&hide_border=true&range=1y" />
-</p>
+<p align="center">   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish23013509&theme=tokyo-night&hide_border=true" /> </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/nithish-s-072038297/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Nithish23013509">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://nithish-s-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<p>   <a href="https://www.linkedin.com/in/nithish-s-072038297/">     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>   </a>   <a href="https://github.com/Nithish23013509">     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>   </a>   <a href="https://nithish-s-portfolio.vercel.app/">     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>   </a> </p>
 
 ---
 
