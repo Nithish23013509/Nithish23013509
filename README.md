@@ -54,18 +54,21 @@ An intelligent grievance platform that classifies, prioritizes, and routes citiz
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithish23013509&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish23013509&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithish23013509&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithish23013509&theme=tokyonight" height="180"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithish23013509&theme=tokyonight" width="100%"/>
+</p>
+
 
 
 ---
 
 ## 📈 GitHub Contributions
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithish23013509&theme=tokyonight" width="100%"/>
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithish23013509&theme=tokyo-night&hide_border=true" /> </p>
 
 ---
 
