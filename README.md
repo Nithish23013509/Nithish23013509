@@ -11,7 +11,7 @@ I'm an engineering student at **Saveetha Engineering College** passionate about 
 * 🔭 Building projects with **Java, Spring Boot, React & AI technologies**
 * 🧠 Exploring **Generative AI, RAG & LLM applications**
 * 🚀 Check out my portfolio: [nithish-s-portfolio.vercel.app](https://nithish-s-portfolio.vercel.app/)
-* 🏦 Live Project: [Banking System Web App](https://banking-system-web.vercel.app/)
+* 🏦 Live Project: [Smart Public Grievance Managment System](https://smart-public-grievance-managment.vercel.app/)
 * 📫 Connect with me on **LinkedIn**
 
 ---
