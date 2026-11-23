@@ -20,10 +20,9 @@
 @media(prefers-reduced-motion:reduce){*{animation:none!important}}
 </style><rect x="1" y="1" width="1198" height="472" rx="23" fill="url(#bg)" stroke="#34415e" stroke-width="2"/><rect x="2" y="2" width="1196" height="470" rx="22" fill="url(#grid)"/><circle cx="30" cy="29" r="6" fill="#79f0d5"/><circle cx="49" cy="29" r="6" fill="#b596f0"/><circle cx="68" cy="29" r="6" fill="#455476"/><text x="92" y="35" class="m" font-size="13" fill="#abc2de">N / S — DEVELOPER SYSTEM</text><path d="M24 54H1176" stroke="#30405d"/><rect x="840" y="15" width="331" height="30" rx="15" fill="#102a36" stroke="#2a665c"/><circle cx="857" cy="30" r="6" fill="#89f7db" class="pulse"/><text x="875" y="35" class="m" fill="#a8f6df" font-size="13">OPEN TO BUILD / COLLABORATE</text>
 <text x="70" y="97" class="m" fill="#c3a4ff" font-size="16">THE HUMAN BEHIND THE CODE / 001</text>
-<text x="69" y="210" class="s" fill="#f3f6ff" font-weight="850" font-size="101" letter-spacing="-5">NITHISH</text>
-<text x="70" y="303" class="s" fill="url(#gl)" font-weight="850" font-size="90">S.</text>
-<text x="186" y="272" class="m" fill="#dbe8ff" font-size="22">ENGINEERING STUDENT</text>
-<text x="186" y="305" class="m" fill="#81f6dd" font-size="20">FULL-STACK BUILDER + AI EXPLORER</text>
+<text x="70" y="237" class="s" fill="#f3f6ff" font-weight="850" font-size="94" letter-spacing="-5">NITHISH <tspan fill="url(#gl)">S</tspan></text>
+<text x="72" y="287" class="m" fill="#dbe8ff" font-size="22">ENGINEERING STUDENT</text>
+<text x="72" y="320" class="m" fill="#81f6dd" font-size="20">FULL-STACK BUILDER + AI EXPLORER</text>
 <text x="71" y="352" class="s" fill="#a8bbda" font-size="20">Building thoughtful software for real-world problems.</text>
 <rect x="65" y="388" width="1065" height="57" rx="14" fill="#0e1a30" stroke="#344660"/>
 <path d="M407 400V434M745 400V434" stroke="#334562"/>

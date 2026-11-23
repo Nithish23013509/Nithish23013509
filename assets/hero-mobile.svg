@@ -20,11 +20,10 @@
 @media(prefers-reduced-motion:reduce){*{animation:none!important}}
 </style><rect x="1" y="1" width="718" height="858" rx="23" fill="url(#bg)" stroke="#34415e" stroke-width="2"/><rect x="2" y="2" width="716" height="856" rx="22" fill="url(#grid)"/><circle cx="30" cy="29" r="6" fill="#79f0d5"/><circle cx="49" cy="29" r="6" fill="#b596f0"/><circle cx="68" cy="29" r="6" fill="#455476"/><text x="92" y="35" class="m" font-size="13" fill="#abc2de">N / S — DEVELOPER SYSTEM</text><path d="M24 54H696" stroke="#30405d"/><rect x="431" y="74" width="251" height="36" rx="17" fill="#102736" stroke="#32675d"/><circle cx="448" cy="92" r="6" fill="#87f7dc" class="pulse"/><text x="464" y="98" class="m" fill="#aff7e1" font-size="14">BUILDING / ONLINE</text>
 <text x="48" y="144" class="m" fill="#c0a3ff" font-size="17">THE HUMAN BEHIND THE CODE</text>
-<text x="46" y="252" class="s" fill="#f3f6ff" font-size="96" letter-spacing="-4" font-weight="850">NITHISH</text>
-<text x="49" y="354" class="s" fill="url(#gl)" font-size="105" font-weight="850">S.</text>
-<text x="52" y="401" class="m" fill="#e7edff" font-size="24">ENGINEERING STUDENT</text>
-<text x="52" y="436" class="m" fill="#8bf5dc" font-size="22">FULL-STACK / AI EXPLORER</text>
-<text x="52" y="481" class="s" fill="#a9bbd8" font-size="20">Thoughtful software. Real-world impact.</text>
+<text x="46" y="262" class="s" fill="#f3f6ff" font-size="88" letter-spacing="-4" font-weight="850">NITHISH <tspan fill="url(#gl)">S</tspan></text>
+<text x="52" y="357" class="m" fill="#e7edff" font-size="24">ENGINEERING STUDENT</text>
+<text x="52" y="398" class="m" fill="#8bf5dc" font-size="22">FULL-STACK / AI EXPLORER</text>
+<text x="52" y="451" class="s" fill="#a9bbd8" font-size="20">Thoughtful software. Real-world impact.</text>
 <circle cx="360" cy="645" r="156.8" fill="url(#halo)"/><circle cx="360" cy="645" r="115.64" fill="none" stroke="#726ab4" stroke-opacity=".5" stroke-dasharray="5 8" class="dash"/><circle cx="360" cy="645" r="80.36" stroke="#8eaad9" stroke-opacity=".42" stroke-width="2" fill="none"/><circle cx="360" cy="645" r="50.96" stroke="#b7a6fa" stroke-opacity=".3" fill="none"/><path d="M227.7 645h264.6M360 512.7v264.6" stroke="#8da7ce" stroke-opacity=".18"/><circle cx="360" cy="645" r="42.14" fill="#15223b" stroke="#84f5d8" stroke-width="2"/><text x="360" y="656" text-anchor="middle" font-size="35.28" font-weight="800" class="s" fill="#f5fcff">NS</text><g class="rotate"><circle cx="440.36" cy="645" r="9" fill="#8dfce1" filter="url(#glow)"/><circle cx="303.16" cy="588.16" r="6" fill="#c19bff"/><circle cx="244.36" cy="645" r="4" fill="#87baff"/></g>
 <rect x="38" y="767" width="644" height="58" rx="14" fill="#0e1a30" stroke="#344660"/>
 <text x="63" y="787" class="m" fill="#8299bc" font-size="14">STACK_SIGNAL / 001</text><text x="63" y="812" class="m" fill="#e6edfa" font-size="19">JAVA · SPRING · REACT · AI</text></svg>
