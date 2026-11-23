@@ -1,38 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="290" viewBox="0 0 1120 290" role="img" aria-label="Nithish S developer profile visual">
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="290" viewBox="0 0 1120 290" role="img" aria-label="Nithish S animated developer profile graphic">
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090D1D"/><stop offset="0.55" stop-color="#0E1328"/><stop offset="1" stop-color="#090C19"/></linearGradient>
- <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#84FAD6"/><stop offset="0.48" stop-color="#9EBBFF"/><stop offset="1" stop-color="#CE97FF"/></linearGradient>
- <linearGradient id="line" x1="0" x2="1"><stop stop-color="#70ECD7" stop-opacity="0"/><stop offset="0.5" stop-color="#70ECD7" stop-opacity="0.55"/><stop offset="1" stop-color="#70ECD7" stop-opacity="0"/></linearGradient>
- <radialGradient id="halo"><stop stop-color="#7862C8" stop-opacity="0.24"/><stop offset="0.7" stop-color="#5344AB" stop-opacity="0.065"/><stop offset="1" stop-color="#5344AB" stop-opacity="0"/></radialGradient>
- <pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#A8B6DE" stroke-opacity="0.055" stroke-width="1"/></pattern>
- <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090d1d"/><stop offset=".55" stop-color="#0f1730"/><stop offset="1" stop-color="#090d1c"/></linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7dfbd9"/><stop offset=".55" stop-color="#9caeff"/><stop offset="1" stop-color="#cd94ff"/></linearGradient>
+<pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#9eb5de" stroke-opacity=".065"/></pattern>
+<radialGradient id="halo"><stop stop-color="#6255bf" stop-opacity=".34"/><stop offset="1" stop-color="#6255bf" stop-opacity="0"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<style><![CDATA[
- .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace;letter-spacing:1.6px}
- .sans{font-family:Inter,'Segoe UI',Arial,sans-serif}
- .pulse{animation:pulse 2.7s ease-in-out infinite;transform-origin:center}
- .twinkle{animation:twinkle 3.3s ease-in-out infinite}
- .dash{animation:dash 12s linear infinite}
- .float{animation:float 5s ease-in-out infinite}
- .flicker{animation:flicker 4.2s ease-in-out infinite}
- .scan{animation:scan 7s linear infinite}
- .travel{animation:travel 7s linear infinite}
- @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
- @keyframes twinkle{0%,100%{opacity:.23}50%{opacity:.85}}
- @keyframes dash{to{stroke-dashoffset:-240}}
- @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
- @keyframes flicker{0%,96%,100%{opacity:1}97%{opacity:.3}99%{opacity:.65}}
- @keyframes scan{0%{transform:translateX(-600px);opacity:0}12%{opacity:.5}65%{opacity:.3}100%{transform:translateX(1600px);opacity:0}}
- @keyframes travel{0%{stroke-dashoffset:200;opacity:0}20%{opacity:1}85%{opacity:1}100%{stroke-dashoffset:0;opacity:0}}
- @media(prefers-reduced-motion:reduce){*{animation:none!important}}
-]]></style>
-<rect x="1" y="1" width="1118" height="288" rx="21" fill="url(#bg)" stroke="#303D5B" stroke-width="2"/>
-    <rect x="2" y="2" width="1116" height="286" rx="20" fill="url(#grid)"/>
-    <path d="M40 52H1080" stroke="#293852"/>
-    <circle cx="43" cy="29" r="6" fill="#8BF6D8" class="pulse"/><circle cx="61" cy="29" r="6" fill="#B196FF"/><circle cx="79" cy="29" r="6" fill="#536281"/>
-    <text x="106" y="35" class="mono" fill="#9DADCD" font-size="15">CASE FILE 002 · AI / NLP / FULL STACK</text>
-    <text x="1065" y="35" text-anchor="end" class="mono" fill="#85F4D9" font-size="14">02 / DEPLOYED</text>
-    <text x="44" y="103" class="sans" fill="#F6F7FF" font-weight="800" font-size="39">PUBLIC GRIEVANCE / AI</text>
-    <text x="46" y="143" class="sans" fill="#AAB9D8" font-size="19">Making complaint handling more intelligent and easier to navigate.</text>
-    <rect x="44" y="179" width="1032" height="74" rx="12" fill="#0B1425" stroke="#293852"/>
-    <circle cx="80" cy="210" r="12" fill="#162C3D" stroke="#7CF5DC" stroke-opacity=".8"/><text x="80" y="215" class="mono" text-anchor="middle" font-size="11" fill="#8DF8D9">1</text><text x="102" y="206" class="mono" fill="#E4EEFA" font-size="16" font-weight="700">SUBMIT</text><text x="102" y="230" class="mono" fill="#8297B8" font-size="13">citizen input</text><path d="M230 211H301" fill="none" stroke="#6587A4" stroke-dasharray="4 7" class="dash"/><circle cx="326" cy="210" r="12" fill="#162C3D" stroke="#7CF5DC" stroke-opacity=".8"/><text x="326" y="215" class="mono" text-anchor="middle" font-size="11" fill="#8DF8D9">2</text><text x="348" y="206" class="mono" fill="#E4EEFA" font-size="16" font-weight="700">CLASSIFY</text><text x="348" y="230" class="mono" fill="#8297B8" font-size="13">AI + NLP</text><path d="M476 211H557" fill="none" stroke="#6587A4" stroke-dasharray="4 7" class="dash"/><circle cx="582" cy="210" r="12" fill="#162C3D" stroke="#7CF5DC" stroke-opacity=".8"/><text x="582" y="215" class="mono" text-anchor="middle" font-size="11" fill="#8DF8D9">3</text><text x="604" y="206" class="mono" fill="#E4EEFA" font-size="16" font-weight="700">PRIORITIZE</text><text x="604" y="230" class="mono" fill="#8297B8" font-size="13">urgency</text><path d="M732 211H811" fill="none" stroke="#6587A4" stroke-dasharray="4 7" class="dash"/><circle cx="836" cy="210" r="12" fill="#162C3D" stroke="#7CF5DC" stroke-opacity=".8"/><text x="836" y="215" class="mono" text-anchor="middle" font-size="11" fill="#8DF8D9">4</text><text x="858" y="206" class="mono" fill="#E4EEFA" font-size="16" font-weight="700">ROUTE</text><text x="858" y="230" class="mono" fill="#8297B8" font-size="13">departments</text></svg>
+<style>
+.s{font-family:Inter,Segoe UI,Arial,sans-serif}
+.m{font-family:Consolas,monospace;letter-spacing:1px}
+.pulse{animation:pulse 2.7s ease-in-out infinite}
+.rotate{animation:spin 18s linear infinite;transform-box:fill-box;transform-origin:center}
+.dash{animation:dash 12s linear infinite}
+.float{animation:float 4s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes dash{to{stroke-dashoffset:-140}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><rect x="1" y="1" width="1118" height="288" rx="22" fill="url(#bg)" stroke="#354563" stroke-width="2"/><rect x="1" y="1" width="1118" height="288" rx="22" fill="url(#grid)"/><circle cx="43" cy="29" r="6" fill="#8cf7d7" class="pulse"/><circle cx="62" cy="29" r="6" fill="#c4a0ff"/><circle cx="81" cy="29" r="6" fill="#55617e"/><text x="109" y="35" class="m" fill="#a7bbda" font-size="15">CASE FILE 002 · AI / NLP / FULL STACK</text><text x="1080" y="35" text-anchor="end" class="m" fill="#8dfbdc" font-size="14">02 / DEPLOYED</text><path d="M40 52H1080" stroke="#30405d"/>
+<text x="44" y="103" class="s" fill="#f4f7ff" font-weight="800" font-size="38">PUBLIC GRIEVANCE / AI</text>
+<text x="46" y="143" class="s" fill="#adbbd8" font-size="19">Making complaint handling more intelligent and easier to navigate.</text>
+<rect x="43" y="178" width="1034" height="75" rx="14" fill="#0e1a30" stroke="#344660"/><circle cx="80" cy="211" r="12" fill="#173143" stroke="#8cf6dd"/><text x="80" y="216" text-anchor="middle" font-size="11" class="m" fill="#b3ffe9">1</text><text x="103" y="208" class="m" fill="#e4edff" font-weight="700" font-size="16">SUBMIT</text><text x="103" y="233" class="m" fill="#8295b7" font-size="13">citizen input</text><circle cx="329" cy="211" r="12" fill="#173143" stroke="#8cf6dd"/><text x="329" y="216" text-anchor="middle" font-size="11" class="m" fill="#b3ffe9">2</text><text x="352" y="208" class="m" fill="#e4edff" font-weight="700" font-size="16">CLASSIFY</text><text x="352" y="233" class="m" fill="#8295b7" font-size="13">AI + NLP</text><circle cx="580" cy="211" r="12" fill="#173143" stroke="#8cf6dd"/><text x="580" y="216" text-anchor="middle" font-size="11" class="m" fill="#b3ffe9">3</text><text x="603" y="208" class="m" fill="#e4edff" font-weight="700" font-size="16">PRIORITIZE</text><text x="603" y="233" class="m" fill="#8295b7" font-size="13">urgency</text><circle cx="832" cy="211" r="12" fill="#173143" stroke="#8cf6dd"/><text x="832" y="216" text-anchor="middle" font-size="11" class="m" fill="#b3ffe9">4</text><text x="855" y="208" class="m" fill="#e4edff" font-weight="700" font-size="16">ROUTE</text><text x="855" y="233" class="m" fill="#8295b7" font-size="13">departments</text></svg>

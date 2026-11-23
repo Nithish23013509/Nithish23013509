@@ -1,36 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="166" viewBox="0 0 1120 166" role="img" aria-label="Nithish S developer profile visual">
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="166" viewBox="0 0 1120 166" role="img" aria-label="Nithish S animated developer profile graphic">
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090D1D"/><stop offset="0.55" stop-color="#0E1328"/><stop offset="1" stop-color="#090C19"/></linearGradient>
- <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#84FAD6"/><stop offset="0.48" stop-color="#9EBBFF"/><stop offset="1" stop-color="#CE97FF"/></linearGradient>
- <linearGradient id="line" x1="0" x2="1"><stop stop-color="#70ECD7" stop-opacity="0"/><stop offset="0.5" stop-color="#70ECD7" stop-opacity="0.55"/><stop offset="1" stop-color="#70ECD7" stop-opacity="0"/></linearGradient>
- <radialGradient id="halo"><stop stop-color="#7862C8" stop-opacity="0.24"/><stop offset="0.7" stop-color="#5344AB" stop-opacity="0.065"/><stop offset="1" stop-color="#5344AB" stop-opacity="0"/></radialGradient>
- <pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#A8B6DE" stroke-opacity="0.055" stroke-width="1"/></pattern>
- <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090d1d"/><stop offset=".55" stop-color="#0f1730"/><stop offset="1" stop-color="#090d1c"/></linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7dfbd9"/><stop offset=".55" stop-color="#9caeff"/><stop offset="1" stop-color="#cd94ff"/></linearGradient>
+<pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#9eb5de" stroke-opacity=".065"/></pattern>
+<radialGradient id="halo"><stop stop-color="#6255bf" stop-opacity=".34"/><stop offset="1" stop-color="#6255bf" stop-opacity="0"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<style><![CDATA[
- .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace;letter-spacing:1.6px}
- .sans{font-family:Inter,'Segoe UI',Arial,sans-serif}
- .pulse{animation:pulse 2.7s ease-in-out infinite;transform-origin:center}
- .twinkle{animation:twinkle 3.3s ease-in-out infinite}
- .dash{animation:dash 12s linear infinite}
- .float{animation:float 5s ease-in-out infinite}
- .flicker{animation:flicker 4.2s ease-in-out infinite}
- .scan{animation:scan 7s linear infinite}
- .travel{animation:travel 7s linear infinite}
- @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
- @keyframes twinkle{0%,100%{opacity:.23}50%{opacity:.85}}
- @keyframes dash{to{stroke-dashoffset:-240}}
- @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
- @keyframes flicker{0%,96%,100%{opacity:1}97%{opacity:.3}99%{opacity:.65}}
- @keyframes scan{0%{transform:translateX(-600px);opacity:0}12%{opacity:.5}65%{opacity:.3}100%{transform:translateX(1600px);opacity:0}}
- @keyframes travel{0%{stroke-dashoffset:200;opacity:0}20%{opacity:1}85%{opacity:1}100%{stroke-dashoffset:0;opacity:0}}
- @media(prefers-reduced-motion:reduce){*{animation:none!important}}
-]]></style>
-<rect x="1" y="1" width="1118" height="164" rx="22" fill="url(#bg)" stroke="#2C3D5C"/><rect x="1" y="1" width="1118" height="164" rx="22" fill="url(#grid)"/><text x="45" y="43" class="mono" fill="#83EED5" font-size="15">END OF TRANSMISSION / NOT THE END OF THE BUILD</text>
-<text x="44" y="103" class="sans" fill="#F0F4FF" font-weight="800" font-size="43">Code. Learn. Build. Repeat.</text>
-<path d="M45 130H1070" stroke="#415069" stroke-dasharray="4 8"/>
-<path d="M45 130H1070" stroke="#75F6D7" stroke-width="3" stroke-dasharray="80 1000" class="travel"/>
-<circle cx="1040" cy="70" r="32" stroke="#87A7CA" stroke-opacity=".4" fill="none"/>
-<circle cx="1040" cy="70" r="18" stroke="#83F2D9" stroke-opacity=".7" fill="none" class="pulse"/>
-<circle cx="1040" cy="70" r="5" fill="#8DFBD8" filter="url(#glow)"/>
-</svg>
+<style>
+.s{font-family:Inter,Segoe UI,Arial,sans-serif}
+.m{font-family:Consolas,monospace;letter-spacing:1px}
+.pulse{animation:pulse 2.7s ease-in-out infinite}
+.rotate{animation:spin 18s linear infinite;transform-box:fill-box;transform-origin:center}
+.dash{animation:dash 12s linear infinite}
+.float{animation:float 4s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes dash{to{stroke-dashoffset:-140}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><rect x="1" y="1" width="1118" height="164" rx="22" fill="url(#bg)" stroke="#354563"/><rect x="1" y="1" width="1118" height="164" rx="22" fill="url(#grid)"/><text x="42" y="42" class="m" fill="#87efda" font-size="15">END OF TRANSMISSION / NOT THE END OF THE BUILD</text><text x="42" y="105" class="s" font-size="42" font-weight="800" fill="#f5f8ff">Code. Learn. Build. Repeat.</text><path d="M42 132H1071" stroke="#76f5db" stroke-width="2" stroke-dasharray="10 16" class="dash"/><circle cx="1034" cy="73" r="32" stroke="#8eadd2" stroke-opacity=".5" fill="none"/><circle cx="1034" cy="73" r="18" stroke="#8cf5da" fill="none" class="pulse"/><circle cx="1034" cy="73" r="5" fill="#8cf5da" filter="url(#glow)"/></svg>
