@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="290" viewBox="0 0 1120 290" role="img" aria-label="Nithish S developer profile visual">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090D1D"/><stop offset="0.55" stop-color="#0E1328"/><stop offset="1" stop-color="#090C19"/></linearGradient>
+ <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#84FAD6"/><stop offset="0.48" stop-color="#9EBBFF"/><stop offset="1" stop-color="#CE97FF"/></linearGradient>
+ <linearGradient id="line" x1="0" x2="1"><stop stop-color="#70ECD7" stop-opacity="0"/><stop offset="0.5" stop-color="#70ECD7" stop-opacity="0.55"/><stop offset="1" stop-color="#70ECD7" stop-opacity="0"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#7862C8" stop-opacity="0.24"/><stop offset="0.7" stop-color="#5344AB" stop-opacity="0.065"/><stop offset="1" stop-color="#5344AB" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#A8B6DE" stroke-opacity="0.055" stroke-width="1"/></pattern>
+ <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style><![CDATA[
+ .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace;letter-spacing:1.6px}
+ .sans{font-family:Inter,'Segoe UI',Arial,sans-serif}
+ .pulse{animation:pulse 2.7s ease-in-out infinite;transform-origin:center}
+ .twinkle{animation:twinkle 3.3s ease-in-out infinite}
+ .dash{animation:dash 12s linear infinite}
+ .float{animation:float 5s ease-in-out infinite}
+ .flicker{animation:flicker 4.2s ease-in-out infinite}
+ .scan{animation:scan 7s linear infinite}
+ .travel{animation:travel 7s linear infinite}
+ @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+ @keyframes twinkle{0%,100%{opacity:.23}50%{opacity:.85}}
+ @keyframes dash{to{stroke-dashoffset:-240}}
+ @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+ @keyframes flicker{0%,96%,100%{opacity:1}97%{opacity:.3}99%{opacity:.65}}
+ @keyframes scan{0%{transform:translateX(-600px);opacity:0}12%{opacity:.5}65%{opacity:.3}100%{transform:translateX(1600px);opacity:0}}
+ @keyframes travel{0%{stroke-dashoffset:200;opacity:0}20%{opacity:1}85%{opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+]]></style>
+<rect x="1" y="1" width="1118" height="288" rx="21" fill="url(#bg)" stroke="#303D5B" stroke-width="2"/>
+    <rect x="2" y="2" width="1116" height="286" rx="20" fill="url(#grid)"/>
+    <path d="M40 52H1080" stroke="#293852"/>
+    <circle cx="43" cy="29" r="6" fill="#8BF6D8" class="pulse"/><circle cx="61" cy="29" r="6" fill="#B196FF"/><circle cx="79" cy="29" r="6" fill="#536281"/>
+    <text x="106" y="35" class="mono" fill="#9DADCD" font-size="15">CASE FILE 001 · JAVA / SPRING BOOT / JWT</text>
+    <text x="1065" y="35" text-anchor="end" class="mono" fill="#85F4D9" font-size="14">01 / DEPLOYED</text>
+    <text x="44" y="103" class="sans" fill="#F6F7FF" font-weight="800" font-size="39">BANKING SYSTEM / CORE</text>
+    <text x="46" y="143" class="sans" fill="#AAB9D8" font-size="19">Account operations designed around security, access and traceability.</text>
+    <rect x="44" y="179" width="1032" height="74" rx="12" fill="#0B1425" stroke="#293852"/>
+    <circle cx="80" cy="210" r="12" fill="#162C3D" stroke="#7CF5DC" stroke-opacity=".8"/><text x="80" y="215" class="mono" text-anchor="middle" font-size="11" fill="#8DF8D9">1</text><text x="102" y="206" class="mono" fill="#E4EEFA" font-size="16" font-weight="700">AUTH</text><text x="102" y="230" class="mono" fill="#8297B8" font-size="13">JWT + roles</text><path d="M230 211H301" fill="none" stroke="#6587A4" stroke-dasharray="4 7" class="dash"/><circle cx="326" cy="210" r="12" fill="#162C3D" stroke="#7CF5DC" stroke-opacity=".8"/><text x="326" y="215" class="mono" text-anchor="middle" font-size="11" fill="#8DF8D9">2</text><text x="348" y="206" class="mono" fill="#E4EEFA" font-size="16" font-weight="700">ACCOUNTS</text><text x="348" y="230" class="mono" fill="#8297B8" font-size="13">manage</text><path d="M476 211H557" fill="none" stroke="#6587A4" stroke-dasharray="4 7" class="dash"/><circle cx="582" cy="210" r="12" fill="#162C3D" stroke="#7CF5DC" stroke-opacity=".8"/><text x="582" y="215" class="mono" text-anchor="middle" font-size="11" fill="#8DF8D9">3</text><text x="604" y="206" class="mono" fill="#E4EEFA" font-size="16" font-weight="700">TRANSFER</text><text x="604" y="230" class="mono" fill="#8297B8" font-size="13">move funds</text><path d="M732 211H811" fill="none" stroke="#6587A4" stroke-dasharray="4 7" class="dash"/><circle cx="836" cy="210" r="12" fill="#162C3D" stroke="#7CF5DC" stroke-opacity=".8"/><text x="836" y="215" class="mono" text-anchor="middle" font-size="11" fill="#8DF8D9">4</text><text x="858" y="206" class="mono" fill="#E4EEFA" font-size="16" font-weight="700">HISTORY</text><text x="858" y="230" class="mono" fill="#8297B8" font-size="13">audit trail</text></svg>
