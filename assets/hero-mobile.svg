@@ -37,11 +37,10 @@
     <rect x="432" y="75" width="249" height="33" rx="16" fill="#10253A" stroke="#265A65"/>
 <circle cx="455" cy="91" r="6" fill="#81F7D9" class="pulse"/><text x="473" y="96" class="mono" font-size="14" fill="#B5F7E2">BUILDING / ONLINE</text>
 <text x="54" y="130" class="mono" fill="#C1ABFF" font-size="17">HELLO WORLD / 001</text>
-<text x="47" y="235" class="sans" fill="#F6F8FF" font-size="95" font-weight="850" letter-spacing="-4">NITHISH</text>
-<text x="50" y="323" class="sans" fill="url(#accent)" font-size="105" font-weight="850">S.</text>
-<text x="50" y="374" class="mono" fill="#E8EBFF" font-size="24" font-weight="700">FULL-STACK BUILDER</text>
-<text x="50" y="408" class="mono" fill="#8AF6DB" font-size="23">AI / NLP / RAG EXPLORER</text>
-<text x="50" y="450" class="sans" fill="#A5B6D5" font-size="20">Thoughtful software. Real-world impact.</text>
+<text x="47" y="243" class="sans" fill="#F6F8FF" font-size="86" font-weight="850" letter-spacing="-4">NITHISH <tspan fill="url(#accent)">S</tspan></text>
+<text x="50" y="327" class="mono" fill="#E8EBFF" font-size="24" font-weight="700">FULL-STACK BUILDER</text>
+<text x="50" y="361" class="mono" fill="#8AF6DB" font-size="23">AI / NLP / RAG EXPLORER</text>
+<text x="50" y="411" class="sans" fill="#A5B6D5" font-size="20">Thoughtful software. Real-world impact.</text>
 <circle cx="362" cy="610" r="160.32" fill="url(#halo)"/><circle cx="362" cy="610" r="52.800000000000004" fill="none" stroke="#8B91D8" opacity="0.35" stroke-width="1.6" stroke-dasharray="3 9" class="dash"/><circle cx="362" cy="610" r="81.6" fill="none" stroke="#8B91D8" opacity="0.53" stroke-width="1.6" stroke-dasharray="none" class="dash"/><circle cx="362" cy="610" r="115.19999999999999" fill="none" stroke="#8B91D8" opacity="0.42" stroke-width="1.6" stroke-dasharray="7 10" class="dash"/><path d="M232.39999999999998 610H491.6M362 480.4V739.6" stroke="#8BA3D6" stroke-opacity=".17" stroke-width="1.1"/>
     <circle cx="362" cy="610" r="44.160000000000004" fill="#111A31" stroke="#8FFCE2" stroke-opacity=".65" stroke-width="2"/>
     <circle cx="362" cy="610" r="35.519999999999996" fill="none" stroke="#746FCA" stroke-opacity=".4"/>
